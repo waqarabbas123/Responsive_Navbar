@@ -1,1 +1,1 @@
-this is the simple navbar using html css and js
+This is the simple navbar using only html and css 
