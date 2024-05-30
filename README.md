@@ -1,1 +1,1 @@
-This is the simple navbar using only html and css 
+This is the resoponsive Navbar using html an css only
