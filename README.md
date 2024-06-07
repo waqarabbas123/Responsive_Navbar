@@ -1,1 +1,1 @@
-this is reponsive navbar using hml and css
+This is the responsive navbar using html and css.
