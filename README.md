@@ -1,1 +1,1 @@
-Using html and css i can make a repsonive navbar this responsive navbar for only beginner
+Using the html css and javscirpt i can make a responsive navbar for beignners .
