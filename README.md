@@ -1,1 +1,1 @@
-Using the html css and javscirpt i can make a responsive navbar for beignners.
+In this repository we can make a responsive navbar using html css and javscript .
